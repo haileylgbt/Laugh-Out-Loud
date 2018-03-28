@@ -1,0 +1,20 @@
+body {
+  font-family: "ubuntu";
+}
+
+.battun {
+  border-width: thick;
+  border-left: ;
+  border-radius: 5px;
+  border-color: grey;
+  background-color: grey;
+  display: inline;
+}
+
+battun:hover {
+  border-color: black;
+}
+
+.disabled {
+  disabled: true;
+}
